@@ -1,0 +1,19 @@
+{
+  "name": "hustcode",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "拆家大主教",
+  "license": "MIT",
+  "private": "true",
+  "scripts": {
+    "build": "sh build/build.sh"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "vite": "^4.4.9"
+  }
+}
