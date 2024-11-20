@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        华科验证码好烦好烦好烦！！！
 // @match       https://pass.hust.edu.cn/cas/login
+// @match       https://pass.hust.edu.cn/cas/login?*
 // @grant       none
 // @version     1.0
 // @author      https://github.com/HomeArchbishop
